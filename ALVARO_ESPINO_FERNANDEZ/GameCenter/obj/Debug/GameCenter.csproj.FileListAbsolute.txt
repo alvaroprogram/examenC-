@@ -1,0 +1,14 @@
+C:\Users\Tarde\Desktop\Examen 27-10-2017\GameCenter\obj\Debug\GameCenter.csprojResolveAssemblyReference.cache
+C:\Users\Tarde\Desktop\Examen 27-10-2017\GameCenter\obj\Debug\GameCenter.csproj.CoreCompileInputs.cache
+C:\Users\Tarde\Desktop\Examen 27-10-2017\GameCenter\bin\Debug\GameCenter.exe.config
+C:\Users\Tarde\Desktop\Examen 27-10-2017\GameCenter\bin\Debug\GameCenter.exe
+C:\Users\Tarde\Desktop\Examen 27-10-2017\GameCenter\bin\Debug\GameCenter.pdb
+C:\Users\Tarde\Desktop\Examen 27-10-2017\GameCenter\obj\Debug\GameCenter.exe
+C:\Users\Tarde\Desktop\Examen 27-10-2017\GameCenter\obj\Debug\GameCenter.pdb
+C:\Users\Alvaro\Desktop\Examen 27-10-2017\GameCenter\obj\Debug\GameCenter.csprojResolveAssemblyReference.cache
+C:\Users\Alvaro\Desktop\Examen 27-10-2017\GameCenter\obj\Debug\GameCenter.csproj.CoreCompileInputs.cache
+C:\Users\Alvaro\Desktop\Examen 27-10-2017\GameCenter\obj\Debug\GameCenter.exe
+C:\Users\Alvaro\Desktop\Examen 27-10-2017\GameCenter\obj\Debug\GameCenter.pdb
+C:\Users\Alvaro\Desktop\Examen 27-10-2017\GameCenter\bin\Debug\GameCenter.exe.config
+C:\Users\Alvaro\Desktop\Examen 27-10-2017\GameCenter\bin\Debug\GameCenter.exe
+C:\Users\Alvaro\Desktop\Examen 27-10-2017\GameCenter\bin\Debug\GameCenter.pdb

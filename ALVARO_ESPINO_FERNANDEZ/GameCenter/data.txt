@@ -1,0 +1,10 @@
+*+*+*+*
+Rayman-Adventure-1900-System.Collections.Generic.List`1[GameCenter.Plataforms],
+Metal gear-Action-2015-System.Collections.Generic.List`1[GameCenter.Plataforms],
+Gran Turismo Sport-Simulation-2017-System.Collections.Generic.List`1[GameCenter.Plataforms],
+Call Of Duty-Survival-2016-System.Collections.Generic.List`1[GameCenter.Plataforms],
+*+*+*+*
+Rayman-PC-Segundo-Tercero-150,Cuarto-100
+Metal gear-PS4-Primero-Primero-200,Segundo-195
+Gran Turismo Sport-PS4-Primero-Primero-200,Segundo-195
+Call Of Duty-PS4-Primero-Primero-200,Segundo-195
